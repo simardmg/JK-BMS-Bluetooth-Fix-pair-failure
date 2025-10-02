@@ -55,4 +55,5 @@ JK BMS integrated BT locks to the first phone. To fix “Make a pair failure!”
 
 ## 📷 Example Error Screen  
 
-![Make a pair failure](INSERT-IMAGE-LINK-HERE)
+![Factory Reset Screenshot](https://github.com/simardmg/JK-BMS-Bluetooth-Fix-pair-failure/raw/7d7093e198ba88de5b9d93de4cfdcd2958d27567/Screenshot_20251001-160314.png)
+
